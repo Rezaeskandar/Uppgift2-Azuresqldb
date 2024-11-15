@@ -1,0 +1,21 @@
+# Ignore Visual Studio-specific files
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+appsettings.json
+
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore published output
+publish/
